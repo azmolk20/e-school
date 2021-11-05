@@ -1,0 +1,87 @@
+.hello{
+    display: flex;
+    justify-content: end;
+}
+.navbar-toggler{
+    background-color: #fff;
+
+}
+.navbar{
+    background-color: #F0FFF0;
+}
+.nav-item{
+    color: black;
+    padding: 10px 20px;
+    margin: 0px 10px 0px 10px;
+}
+.bk{
+    color: black;
+    font-size: 1.3rem;
+    font-weight: 400;
+}
+.lk{
+    font-size: 1.3rem;
+    color: white;
+    border-radius: 25px;
+    padding: 100px;
+    background-color: #21B573;
+}
+.bg{
+    background-color: #F0FFF0;
+}
+.gs{
+    cursor: pointer;
+    border: none;
+    padding: 10px 30px;
+    font-size: 1.3rem;
+    color: white;
+    border-radius: 25px;
+    background-color: #21B573;
+}
+.top{
+    font-size: 2rem;
+    color: #FD511A;
+}
+span{
+    color: #21B573;
+}
+.h{
+    font-size: 3rem;
+}
+.lor{
+    font-size: 0.8rem;
+}
+.col-3{
+    width: 270px;
+    height: 270px;
+
+}
+.card{
+    box-shadow: 10px 10px 30px gray;
+}
+.b{
+    border-radius: 20px;
+}
+.gsl{
+    cursor: pointer;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1.3rem;
+    color: white;
+    border-radius: 25px;
+    background-color: #21B573;
+}
+.x{
+    font-size: 3rem;
+}
+.ct{
+    font-size: 2rem;
+}
+.last{
+    margin-top: 150px;
+    font-size: 2rem;
+}
+.s{
+    font-size: 3rem;
+    color: crimson;
+}
